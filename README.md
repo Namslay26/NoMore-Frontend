@@ -1,70 +1,21 @@
-# Getting Started with Create React App
+# NOMOre 
+Ever find yourself looking through social media only to find out your friends are hanging out or partying somewhere? Do you find yourself walking through somewhere and find people in big groups having fun? Feeling FOMO yet? Well say NOMOre to that!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project Overview
+NOMOre is a website that helps deal with FOMO by creating awareness about it and helping the user cope and overcome the fear of missing out. 
 
-## Available Scripts
+## The Problem
+### What is FOMO
+FOMO (“fear of missing out”) is a social phenomenon which is closely linked to usage of social media. It is a psychological strain that is caused due to multiple reasons, many of which have social media as their primary source.
+### Why is it an issue
+Social media puts all our lives on a pedestal.  This makes the audience question their lives, whether it is as fun and lively as how social media portrays it to be. Hence, they end up comparing their own lives to others, inducing emotions like jealousy, self-hatred, low esteem, and loneliness. People then tend to feel socially excluded or isolated from how their friend groups are seen online and disconnect themselves from the real connections made. 
 
-In the project directory, you can run:
+## Our Solution
+Our website offers the following features, 
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#### No Social media time
+Here, the user can select the social media sites that need to be blocked. They can also choose how long the websites are blocked. 
+#### Together time reminder 
+The user is encouraged to call their friends or family members. Here, to induce conversation, a set of questions are shown to them to ask their caller. If they have not called their loved ones yet, the site pushes notifications on regular intervals. 
+#### Mindfulness
+#### Gratitude time
